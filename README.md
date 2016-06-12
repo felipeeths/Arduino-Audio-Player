@@ -16,8 +16,10 @@ Materiais utilizados no projeto:
     8. Transistor BC548 NTN (Usado para Amplificar o Audio)
     9. Audio Jack (Para headfones)
 
-Bibliotecas Utilizadas
+Biblioteca utilizada
   SdFat: https://github.com/greiman/SdFat
   
 Circuito:
+
   ![alt tag](https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Circuito.png)
+
