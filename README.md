@@ -1,4 +1,4 @@
-# Reprodutor de Audio RAW utilizando Arduino
+#Reprodutor de Audio RAW utilizando Arduino
 
 Projeto para reprodução de audio no formato RAW utilizando o arduino.
 
@@ -19,12 +19,12 @@ Materiais utilizados no projeto:
 Biblioteca utilizada
   SdFat: https://github.com/greiman/SdFat
   
-Circuito:
+#Circuito:
 
   ![alt tag](https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Circuito.png?raw=true "Circuito")
   
-Fotos:
+#Fotos:
 
-  <p align="center">
+  <p align="left">
     <img src="https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Arduino-Audio-Player.jpg?raw=true" width="350"/>
   </p>
