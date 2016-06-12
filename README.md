@@ -22,4 +22,9 @@ Biblioteca utilizada
 Circuito:
 
   ![alt tag](https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Circuito.png?raw=true "Circuito")
-  ![alt tag](https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Arduino-Audio-Player.jpg?raw=true "Fotos")
+  
+Fotos:
+
+  <p align="center">
+    <img src="https://github.com/felipeeths/Arduino-Audio-Player/blob/master/Arduino-Audio-Player.jpg?raw=true" width="350"/>
+  </p>
